@@ -80,6 +80,8 @@ prerequisites: Mac OS, Python, Docker, Azure CLI, Azure account, Kubectl, IDE in
 
 3. 'docker build -t cycling-training-camp-reporter .'
 
+  * M1 Mac only: 'docker build --platform linux/amd64 -t hellodjango-azure .'
+
 4. 'az login'
 
 5. 'az acr login --name ***container_registry_name**'
@@ -160,4 +162,6 @@ prerequisites: Mac OS, Python, Docker, Azure CLI, Azure account, Kubectl, IDE in
 
 5. enter effort number(s) seperated by a space i.e. 2 3 7
 
-6. 'y' + enter if effort list is ready for insertion into json/database 
+6. 'y' + enter if effort list is ready for insertion into json/database
+
+7. insert into Azure/PSQL dataabse: 'cat ./app/main_cr/efforts.json | kubectl exec --stdin ***pod_name** -- python ./manage.py loaddata --format=json -e contenttypes -e auth.permission -e admin.logentry -'
