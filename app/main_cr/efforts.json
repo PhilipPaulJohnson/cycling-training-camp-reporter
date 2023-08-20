@@ -1,0 +1,572 @@
+[
+    {
+        "model": "cr_db.Ride",
+        "pk": 1,
+        "fields": {
+            "effort_id": "3112919219805048264",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-07-08T19:45:37Z",
+            "elapsed_time": "0:03:04",
+            "moving_time": "0:03:04",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "213.0",
+            "average_heart_rate": "165.0",
+            "max_heart_rate": "170.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 2,
+        "fields": {
+            "effort_id": "3098378352266373364",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-05-29T16:04:59Z",
+            "elapsed_time": "0:03:18",
+            "moving_time": "0:03:18",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "226.0",
+            "average_heart_rate": "168.1",
+            "max_heart_rate": "176.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 3,
+        "fields": {
+            "effort_id": "3099147779526753524",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-05-31T19:46:10Z",
+            "elapsed_time": "0:03:18",
+            "moving_time": "0:03:18",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "219.0",
+            "average_heart_rate": "169.3",
+            "max_heart_rate": "174.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 4,
+        "fields": {
+            "effort_id": "3098378352261215476",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-05-29T16:51:20Z",
+            "elapsed_time": "0:03:22",
+            "moving_time": "0:03:22",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "156.2",
+            "average_heart_rate": "175.3",
+            "max_heart_rate": "186.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 5,
+        "fields": {
+            "effort_id": "3080184477916486942",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-04-09T11:51:53Z",
+            "elapsed_time": "0:03:28",
+            "moving_time": "0:03:28",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "197.0",
+            "average_heart_rate": "169.0",
+            "max_heart_rate": "179.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 6,
+        "fields": {
+            "effort_id": "3099147779530223860",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-05-31T19:05:29Z",
+            "elapsed_time": "0:03:29",
+            "moving_time": "0:03:29",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "208.8",
+            "average_heart_rate": "158.1",
+            "max_heart_rate": "167.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 7,
+        "fields": {
+            "effort_id": "3112919219812088264",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-07-08T19:01:43Z",
+            "elapsed_time": "0:03:30",
+            "moving_time": "0:03:30",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "205.6",
+            "average_heart_rate": "160.0",
+            "max_heart_rate": "171.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 8,
+        "fields": {
+            "effort_id": "3060361292224075004",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-02-13T14:55:52Z",
+            "elapsed_time": "0:03:31",
+            "moving_time": "0:03:31",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "235.4",
+            "average_heart_rate": "165.1",
+            "max_heart_rate": "171.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 9,
+        "fields": {
+            "effort_id": "3072566361375384450",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-03-19T10:28:15Z",
+            "elapsed_time": "0:03:32",
+            "moving_time": "0:03:32",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "208.4",
+            "average_heart_rate": "166.4",
+            "max_heart_rate": "175.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 10,
+        "fields": {
+            "effort_id": "3080228812157029452",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-04-09T14:47:00Z",
+            "elapsed_time": "0:03:32",
+            "moving_time": "0:03:32",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "185.6",
+            "average_heart_rate": "165.2",
+            "max_heart_rate": "176.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 11,
+        "fields": {
+            "effort_id": "3111322167703007688",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-07-04T09:29:40Z",
+            "elapsed_time": "0:03:33",
+            "moving_time": "0:03:33",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "197.1",
+            "average_heart_rate": "157.1",
+            "max_heart_rate": "171.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 12,
+        "fields": {
+            "effort_id": "3060361292212937980",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-02-13T17:14:55Z",
+            "elapsed_time": "0:03:36",
+            "moving_time": "0:03:36",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "226.1",
+            "average_heart_rate": "154.3",
+            "max_heart_rate": "163.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 13,
+        "fields": {
+            "effort_id": "3060361292221410556",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-02-13T15:41:55Z",
+            "elapsed_time": "0:03:38",
+            "moving_time": "0:03:38",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "216.7",
+            "average_heart_rate": "144.1",
+            "max_heart_rate": "167.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 14,
+        "fields": {
+            "effort_id": "3068695378475953424",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-03-08T16:55:56Z",
+            "elapsed_time": "0:03:38",
+            "moving_time": "0:03:38",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "226.2",
+            "average_heart_rate": "172.3",
+            "max_heart_rate": "181.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 15,
+        "fields": {
+            "effort_id": "3069773503639327916",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-03-11T17:14:44Z",
+            "elapsed_time": "0:03:38",
+            "moving_time": "0:03:38",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "221.4",
+            "average_heart_rate": "171.2",
+            "max_heart_rate": "183.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 16,
+        "fields": {
+            "effort_id": "3106109152262320808",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-06-19T19:44:44Z",
+            "elapsed_time": "0:03:39",
+            "moving_time": "0:03:39",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "211.9",
+            "average_heart_rate": "161.4",
+            "max_heart_rate": "169.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 17,
+        "fields": {
+            "effort_id": "3060001143150699140",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-02-12T17:09:22Z",
+            "elapsed_time": "0:03:40",
+            "moving_time": "0:03:40",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "215.1",
+            "average_heart_rate": "151.7",
+            "max_heart_rate": "162.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 18,
+        "fields": {
+            "effort_id": "3060361281203879860",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-02-13T17:58:43Z",
+            "elapsed_time": "0:03:40",
+            "moving_time": "0:03:40",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "214.2",
+            "average_heart_rate": "162.9",
+            "max_heart_rate": "180.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 19,
+        "fields": {
+            "effort_id": "3071603213142291736",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-03-16T19:56:06Z",
+            "elapsed_time": "0:03:40",
+            "moving_time": "0:03:40",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "279.2",
+            "average_heart_rate": "169.8",
+            "max_heart_rate": "177.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 20,
+        "fields": {
+            "effort_id": "3117082273296064082",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-07-20T06:25:12Z",
+            "elapsed_time": "0:03:41",
+            "moving_time": "0:03:41",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "195.3",
+            "average_heart_rate": "152.6",
+            "max_heart_rate": "172.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 21,
+        "fields": {
+            "effort_id": "3049835105225306238",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-01-15T16:54:02Z",
+            "elapsed_time": "0:03:44",
+            "moving_time": "0:03:44",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "207.2",
+            "average_heart_rate": "157.8",
+            "max_heart_rate": "175.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 22,
+        "fields": {
+            "effort_id": "3069746043665016796",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-03-11T15:32:14Z",
+            "elapsed_time": "0:03:44",
+            "moving_time": "0:03:44",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "210.3",
+            "average_heart_rate": "158.7",
+            "max_heart_rate": "172.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 23,
+        "fields": {
+            "effort_id": "3060361292216275196",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-02-13T16:31:13Z",
+            "elapsed_time": "0:03:46",
+            "moving_time": "0:03:46",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "207.6",
+            "average_heart_rate": "145.9",
+            "max_heart_rate": "162.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 24,
+        "fields": {
+            "effort_id": "3100596838320733006",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-06-04T19:51:31Z",
+            "elapsed_time": "0:03:46",
+            "moving_time": "0:03:46",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "242.3",
+            "average_heart_rate": "162.7",
+            "max_heart_rate": "175.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 25,
+        "fields": {
+            "effort_id": "3111322167700774344",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-07-04T10:11:21Z",
+            "elapsed_time": "0:03:46",
+            "moving_time": "0:03:46",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "190.6",
+            "average_heart_rate": "160.6",
+            "max_heart_rate": "174.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 26,
+        "fields": {
+            "effort_id": "3091143385859567634",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-05-09T18:10:03Z",
+            "elapsed_time": "0:03:48",
+            "moving_time": "0:03:48",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "219.4",
+            "average_heart_rate": "177.5",
+            "max_heart_rate": "190.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 27,
+        "fields": {
+            "effort_id": "3050217372580508798",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-01-16T15:26:33Z",
+            "elapsed_time": "0:03:49",
+            "moving_time": "0:03:49",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "190.6",
+            "average_heart_rate": "170.9",
+            "max_heart_rate": "177.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 28,
+        "fields": {
+            "effort_id": "3072566361375395714",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-03-19T11:16:55Z",
+            "elapsed_time": "0:03:49",
+            "moving_time": "0:03:49",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "176.1",
+            "average_heart_rate": "160.8",
+            "max_heart_rate": "175.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 29,
+        "fields": {
+            "effort_id": "3098803320659046942",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-05-30T20:04:12Z",
+            "elapsed_time": "0:03:49",
+            "moving_time": "0:03:49",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "225.0",
+            "average_heart_rate": "166.8",
+            "max_heart_rate": "178.0"
+        }
+    },
+    {
+        "model": "cr_db.Ride",
+        "pk": 30,
+        "fields": {
+            "effort_id": "3050217353300161606",
+            "effort_name": "KB Bridge end - Bear Cut Start",
+            "athlete_username": "philipjohnson",
+            "segment_name": "KB Bridge end - Bear Cut Start",
+            "segment_id": "1820788",
+            "start_date_time": "2023-01-16T16:52:58Z",
+            "elapsed_time": "0:03:52",
+            "moving_time": "0:03:52",
+            "effort_distance": "1.35",
+            "segment_distance": "1.35",
+            "average_watts": "184.7",
+            "average_heart_rate": "168.9",
+            "max_heart_rate": "177.0"
+        }
+    }
+]

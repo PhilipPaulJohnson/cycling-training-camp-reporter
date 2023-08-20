@@ -1,0 +1,55 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cycling-training-camp-reporter
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cycling-training-camp-reporter
+  template:
+    metadata:
+      labels:
+        app: cycling-training-camp-reporter
+    spec:
+      containers:
+        - args:
+            - python
+            - manage.py
+            - runserver
+            - 0.0.0.0:8000
+          name: cycling-training-camp-reporter
+          image: <image>
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8000
+          env:
+            - name: DB_HOST
+              value: ""
+            - name: DB_USER
+              value: ""
+            - name: DB_PASSWORD
+              value: ""
+            - name: DB_NAME
+              value: "camp_reporter_db"
+      affinity:
+        podAntiAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            - labelSelector:
+                matchExpressions:
+                  - key: "app"
+                    operator: In
+                    values:
+                      - cycling-training-camp-reporter
+              topologyKey: "kubernetes.io/hostname"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cycling-training-camp-reporter-service
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 8000
+  selector:
+    app: cycling-training-camp-reporter
