@@ -1,6 +1,6 @@
 # Cycling Training Camp Reporter
 
-https://github.com/PhilipPaulJohnson/cycling-training-camp-reporter/assets/114535785/c58af004-b598-47b9-b8fb-7093d2e0f599
+https://github.com/PhilipPaulJohnson/cycling-training-camp-reporter/assets/114535785/40f94431-4ea0-4746-ac3b-1606e36b5921
 
 OVERVIEW: This Python app will monitor cycling team metrics as riders accomplish training routes. Rider attributes such as heart rate, watts, ect. are imported into a database for query and analysis of individual or group performance
 
