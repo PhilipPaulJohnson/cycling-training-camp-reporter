@@ -28,7 +28,7 @@ prerequisites: Mac OS, Python, Docker, Azure CLI, Azure account, Kubectl, IDE in
 
 1. clone repository to local
 
-2. create and/or rename the main folder 'cycling-training-camp-reporter'
+2. verify main folder is named 'cycling-training-camp-reporter'
 
 3. venv: 'python -m venv venv'
 
