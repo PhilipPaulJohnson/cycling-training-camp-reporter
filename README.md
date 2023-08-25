@@ -28,13 +28,15 @@ prerequisites: Mac OS, Python, Docker, Azure CLI, Azure account, Kubectl, IDE in
 
 1. clone repository to local
 
-2. create the main folder (cycling-training-camp-reporter *rename??? -delete:'-main') venv: 'python -m venv venv'
+2. create and/or rename the main folder 'cycling-training-camp-reporter'
 
-3. select venv interpreter
+3. venv: 'python -m venv venv'
 
-4. activate venv: '. venv/bin/activate'
+4. select venv interpreter
 
-5. cd into app/ folder and install requirements: 'pip install -r requirements.txt'
+5. activate venv: '. venv/bin/activate'
+
+6. cd into app/ folder and install requirements: 'pip install -r requirements.txt'
 
 # INSTALL (variable names)
 *examples shown -overwrite with actual values as the install proceeds
